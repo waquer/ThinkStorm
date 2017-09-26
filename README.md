@@ -1,5 +1,5 @@
 # ThinkStorm
-ThinkStorm is Thinkphp framework  plugin for PhpStorm
+ThinkStorm is a ThinkPHP Framework Plugin for PhpStorm
 
 # .phpstorm.meta.php
 ```
