@@ -11,3 +11,4 @@ namespace PHPSTORM_META {
         ])
     );
 }
+```
